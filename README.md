@@ -1,6 +1,8 @@
 # WP Bedrock and Docker
 Simple and fast Wordpress Bedrock setup on docker.
 
+Will be using the theme from https://github.com/mishterk/wp-tailwindcss-theme-boilerplate
+
 ## Supported technologies
 - Apache 
 - PHP 7.3
